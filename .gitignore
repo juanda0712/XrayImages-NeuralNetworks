@@ -1,3 +1,6 @@
 COVID-19_Radiography_Dataset/
 COVID-19_Radiography_Dataset_backup/
 .vscode
+features/
+mlp_experiments_details.pkl
+mlp_experiments_summary.csv
